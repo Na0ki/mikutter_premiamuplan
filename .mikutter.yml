@@ -1,0 +1,9 @@
+---
+slug: :premiamuplan
+depends:
+  mikutter: 3.2.0
+  plugin: []
+version: 1.0.0
+author: ahiru
+name: premiamu plan
+description: make mikutter premiamu again
